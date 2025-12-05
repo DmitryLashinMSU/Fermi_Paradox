@@ -9,9 +9,9 @@
 
 <h2>Структура проекта</h2>
 <ul>
-    <li><strong>application/</strong> — приложение для запуска симуляции, а также объяснение его работы.</li>
-    <li><strong>pictures/</strong> — картинки для наглядности описания в README.md.</li>
-    <li><strong>source_code/</strong> — исходный код и вспомогательные компоненты, необходимые для его работы.</li>
+    <li><strong><a href="./application/">application/</a></strong> — приложение для запуска симуляции, а также объяснение его работы.</li>
+    <li><strong><a href="./pictures/">pictures/</a></strong> — картинки для наглядности описания в README.md.</li>
+    <li><strong><a href="./source code/">source code/</a></strong> — исходный код и вспомогательные компоненты.</li>
 </ul>
 
 <h2>О проекте</h2>
