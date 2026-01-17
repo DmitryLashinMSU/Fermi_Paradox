@@ -326,7 +326,7 @@ def main():
                 if (abs(target_civ.x - spaceship.target_x) < 1 and abs(target_civ.y - spaceship.target_y) < 1):
 
                     # контакт или визит
-                    if target_civ.signal_radius <= t_signal and target_civ.t_intel > target_civ.t_0:
+                    if target_civ.signal_radius <= t_signal:
                         contact_count += 1
                         visit_count += 1
                     else:
