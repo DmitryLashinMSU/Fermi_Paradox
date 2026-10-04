@@ -9,6 +9,6 @@ Here you can find the English version of the code and a link to the executable `
 
 Enjoy!
 
-<p>
+<div align="center">
     <img src="../pictures/Fermi_Paradox_Simulation.gif" alt="Simulation process" style="max-width: 100%; height: auto;">
-</p>
+</div>
